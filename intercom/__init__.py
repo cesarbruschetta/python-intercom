@@ -19,6 +19,7 @@ from .user import User  # noqa
 from .segment import Segment  # noqa
 from .subscription import Subscription  # noqa
 from .tag import Tag  # noqa
+from .contact import Contact
 
 import copy
 import random
